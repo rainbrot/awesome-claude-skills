@@ -192,6 +192,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Productivity & Organization
 
+- [Claude Cook](https://github.com/rainbrot/claude-cook) - Turns cravings and ingredients on hand into home-kitchen recipes designed with food science, then labels them with as-cooked USDA nutrition facts (macros, 21 vitamins and minerals, allergens) from a bundled offline engine. Includes meal plans, grocery lists and mid-cook fixes. *By [@rainbrot](https://github.com/rainbrot)*
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - [kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen) - Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology.
